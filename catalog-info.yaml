@@ -4,6 +4,7 @@ metadata:
   name: "testnodejsdocstmpt"
   description: An example template
   annotations:
+    github.com/project-slug: UdayKunta/testnodejsdocstmpt
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
